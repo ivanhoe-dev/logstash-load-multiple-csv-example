@@ -1,0 +1,3 @@
+C:/Users/CLV220/Desktop/others/code/logstash-multiple-csv-example/csv/fruits.csv
+C:/Users/CLV220/Desktop/others/code/logstash-multiple-csv-example/csv/animals.csv
+C:/Users/CLV220/Desktop/others/code/logstash-multiple-csv-example/csv/visitors.csv
